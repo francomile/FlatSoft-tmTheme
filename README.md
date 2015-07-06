@@ -11,4 +11,6 @@ Now create a folder and name it **"Color Schemes"** inside the **"User"** folder
 In Sublime Text menu, go to **"Preferences"** > **"Color Scheme"** > **"User"** > **"Color Schemes"** and select the **FlatSoft** theme and your done.
 
 
+
+
 ![Screenshot](https://github.com/francomile/FlatSoft-tmTheme/blob/master/screenshot.png)
